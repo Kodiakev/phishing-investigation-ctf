@@ -1,0 +1,7 @@
+playwright
+
+How to run:
+source .venv/bin/activate
+pip install playwright
+playwright install chromium
+python ctf_agent.py
